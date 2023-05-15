@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-
+  root to: "application#root"
 
 
   # Routes for the Comment resource:
